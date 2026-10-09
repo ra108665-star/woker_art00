@@ -4,7 +4,7 @@ import './App.css';
 interface Artwork {
   id: number;
   title: string;
-  categoary: string;
+  category: string;
   imageUrl: string;
   description: string;
   technique: string;
